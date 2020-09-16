@@ -28,5 +28,5 @@
 
 ### Backend
 
- * npm i - instalar as dependências do projeto
- * ng serve - inicialização do projeto
+ * Instalar o .NetCore SDK: https://dotnet.microsoft.com/download
+ * dotnet run - inicialização do projeto
