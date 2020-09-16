@@ -1,19 +1,29 @@
-# Nome do projeto
+# Refugiados
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+  Refugiados, projeto voltado para união de pessoas refugiadas, com possibilidades de emprego contidas em regiões próximas a ele. 
 
-## Alunos integrantes da equipe
+## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* João Marcos Lourenço dos Santos
+* Jonathan David Mendes Lopes
+* Lucca Vieira Paz de Bessa
+* Tomás Antônio Costa Campos
+* William Endrew Menegaldi
 
-## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+## Professores
+
+* Ivre Marjorie Ribeiro Machado
+* Soraia Lúcia da Silva
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+### Frontend
+
+ * npm i - instalar as dependências do projeto
+ * ng serve - inicialização do projeto
+
+### Backend
+
+ * npm i - instalar as dependências do projeto
+ * ng serve - inicialização do projeto
